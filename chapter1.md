@@ -23,18 +23,18 @@
 > * Hilbert matrix
 > * * Square matrix of order n whose elements in $$(i,j)$$ position is $$ \frac{1}{i+j-1}$$
 > * Toeplitx matrix
-> * * \\\\
+> * * \\
 > * Centrosymmetric matrix
 > * Bisymmetric: $$ A=A^T$$ and $$ AJ=JA $$
 > * Exchange matrix: $$J_3= \begin{bmatrix} 0&0&1\\0&1&0\\1&0&0\end{bmatrix}$$
 > * Hankel matrix \(upside-down Toeplitz matrix\)
 > * * ////
 >   * Hilbert matrix is a special form of Hankel matrix
-
 > * Vandermonde matrix
-> * Hilbert matrix is a special form of Hankel matrix
-
-
+>
+> * * $$ V=\begin{bmatrix}1 & \alpha _1 & \alpha _{1}^{2} & \cdots\\ \vdots & \vdots &\vdots& \ddots\end{bmatrix}$$
+>   * $$ det(V)=|V|= \prod \limits_{1\leqslant i<j\leqslant n} \left( \alpha_j - \alpha_i \right)$$$$$$
+> *
 
 
 
