@@ -8,5 +8,33 @@
 
 > If $$det(A_{n \times n}) \neq 0$$, then $$ A_{n \times n}$$ is called non-singular matrix
 
+* Known matrix forms
+
+> * diagonal matrix
+> * upper triangular matrix
+> * lower triangular matrix
+> * upper bi-diagonal matrix
+> * lower bi-diagonal matrix
+> * tridiagonal matrix
+> * pentadiagonal matrix
+> * upper Hessenberg if $$ a_{ij} = 0 $$ for $$ i-j>1$$
+> * * $$ \begin{bmatrix} a_{11} & a_{12} & a_{13} & a_{14}\\a_{21} & a_{22} & a_{23} & a_{24}\\0 & a_{32} & a_{33} & a_{34}\\0 & 0 & a_{43} & a_{44}\\ \end{bmatrix}$$
+> * lower Hessenberg matrix
+> * Hilbert matrix
+> * * Square matrix of order n whose elements in $$(i,j)$$ position is $$ \frac{1}{i+j-1}$$
+> * Toeplitx matrix
+> * * \\\\
+> * Centrosymmetric matrix
+> * Bisymmetric: $$ A=A^T$$ and $$ AJ=JA $$
+> * Exchange matrix: $$J_3= \begin{bmatrix} 0&0&1\\0&1&0\\1&0&0\end{bmatrix}$$
+> * Hankel matrix \(upside-down Toeplitz matrix\)
+> * * ////
+>   * Hilbert matrix is a special form of Hankel matrix
+
+> * Vandermonde matrix
+> * Hilbert matrix is a special form of Hankel matrix
+
+
+
 
 
