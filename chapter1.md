@@ -41,7 +41,12 @@
 > * * There are $$n!$$ permutation matrices of size $$n$$
 >   * Non-singular, and the determinant is always $$\pm 1$$
 >   * $$AA^T=A^TA$$
->     \*
+> * Involutory: $$A^2=I$$
+>   * e.g. $$A=\begin{bmatrix} 1&\alpha\\0&-1\end{bmatrix}$$
+> * Idempotent: $$A^2=A$$
+> * Nilpotent: $$A^k=0,k>0$$
+> * For real $$x$$, $$x^Tx=0$$ iff $$x=0$$
+> * For complex $$x$$, $$x^Hx=0$$ iff $$x=0$$
 
 
 
