@@ -48,5 +48,9 @@
 > * For real $$x$$, $$x^Tx=0$$ iff $$x=0$$
 > * For complex $$x$$, $$x^Hx=0$$ iff $$x=0$$
 
+# W1S2
+
+
+
 
 
