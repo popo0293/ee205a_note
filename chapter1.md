@@ -36,12 +36,17 @@
 >   * $$ det(V)=|V|= \prod \limits_{1\leqslant i<j\leqslant n} \left( \alpha_j - \alpha_i \right)$$
 > * Zero matrices
 > * Identity matrices
-> * Columns of identity matrix are called **canonical vectors**
+> * * Columns of identity matrix are called **canonical vectors**
 > * Permutation matrix
->   * There are $$n!$$ permutation matrices of size $$n$$
->   * Non-singular, and the determinant is always $$\pm 1$$$$AA^T=A^TA$$
+> * * There are $$n!$$ permutation matrices of size $$n$$
+>   * Non-singular, and the determinant is always $$\pm 1$$
 >   * $$AA^T=A^TA$$
-> * sdf
+> * Involutory: $$A^2=I$$
+>   * e.g. $$A=\begin{bmatrix} 1&\alpha\\0&-1\end{bmatrix}$$
+> * Idempotent: $$A^2=A$$
+> * Nilpotent: $$A^k=0,k>0$$
+> * For real $$x$$, $$x^Tx=0$$ iff $$x=0$$
+> * For complex $$x$$, $$x^Hx=0$$ iff $$x=0$$
 
 
 
