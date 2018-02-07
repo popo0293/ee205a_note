@@ -50,7 +50,7 @@
 
 # W1S2
 
-
-
+* $$\text{det}\begin{bmatrix}A&B\\C&D\end{bmatrix} =$$$$\text{det}A\times\text{det}(D-CA^{-1}B)$$
+* 
 
 
